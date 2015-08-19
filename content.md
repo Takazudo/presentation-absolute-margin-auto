@@ -114,9 +114,13 @@ CSS basic box model - 幅、高さ、マージンの計算 - 絶対配置され�
 
 <img style="width:70%" src="myAdditions/imgs/auto_4.png" class="x-nodeco">
 
+`top`、`bottom`は`0`
+
 ---
 
 <img style="width:70%" src="myAdditions/imgs/auto_5.png" class="x-nodeco">
+
+`left`、`right`は`0`
 
 ----
 
